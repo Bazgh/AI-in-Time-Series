@@ -10,3 +10,7 @@ Each trial has got 64 channels representing the number of electrodes recording t
 One other pre-processing step is to map features to fourier space where we can remove the frequencies that are noise and consider the power of this frequencies as our features. However, Fourier Transformation assumes the signal to be stationary while EEG signals are not stationary and thus we use another transformation which is wavelet transfor- this approach captures the varying frequencies fover each time interval. Then the quefficients of such transformation can be used as our feature space.
 #Classification Models
 Preparing our data, we implemented random Forest, and SVM and were able to get 70% accuracy on our classification task with random Forest.
+# Data visualisation and further analysis
+along our classificatio task, we tried to get and idea of the difference betweeen the damaged and the control cases. 
+As the first step we compare the average control cases with damaged cases. according to these plots damaded condition can be attributed to a more fllluctuating pattern.
+![image](https://github.com/user-attachments/assets/c6d49a21-0011-4014-a584-c1f4e472f233)
