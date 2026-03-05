@@ -21,5 +21,5 @@ Another informative concept is the occurence of events. we can pot events by set
 ![image](https://github.com/user-attachments/assets/c774946c-32a1-4427-9b48-c0af7657a9ae)
 ![image](https://github.com/user-attachments/assets/81876218-0bd7-4637-894a-726bc0dd23b4)
 which is again in compliance with our initial interpretation based on which a damaged pre-frontal cortex undergoes more fluctuations/events.
-To see our feature Extraction and feature Exctraction for the downstream task-Classification please see project_AI in Time Series_Data.ipynb.
+To see our feature Extraction and feature analysis methods for the downstream task-Classification please see project_AI in Time Series_Data.ipynb.
 
